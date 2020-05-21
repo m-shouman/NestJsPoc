@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Mostafa",
+    "age": 22,
+    "title": "Dev",
+    "salary": 100,
+    "createdAt": "Thu, 21 May 2020 12:08:35 GMT"
+  },
+  {
+    "id": 2,
+    "name": "Sara",
+    "age": 25,
+    "title": "Tester",
+    "salary": 80,
+    "createdAt": "Thu, 21 May 2020 12:08:35 GMT"
+  },
+  {
+    "id": 3,
+    "name": "Amr",
+    "age": 30,
+    "title": "PM",
+    "salary": 120,
+    "createdAt": "Thu, 21 May 2020 12:08:35 GMT"
+  }
+]
